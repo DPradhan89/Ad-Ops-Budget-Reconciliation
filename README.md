@@ -3,7 +3,7 @@
 A data auditing and financial reconciliation project in Excel. Reconciles a $70,600 regional media budget against vendor invoices to identify billing discrepancies using XLOOKUP and SUMIF.
 
 ## 📝 Project Overview
-This project demonstrates end-to-end invoice management and budget reconciliation for advertising operations. Using raw CSV exports of scheduled media orders and vendor invoices, I cleaned the data and built a dynamic tracking system to verify expenditures across multiple regional markets (Chicago, Dallas, Miami) for two different brands. 
+This project demonstrates end-to-end invoice management and budget reconciliation for advertising operations. Using raw CSV exports of scheduled media orders and data extracted from PDF vendor invoices, I cleaned the data and built a dynamic tracking system to verify expenditures across multiple regional markets (Chicago, Dallas, Miami) for two different brands. 
 
 By leveraging advanced Excel functions, the audit successfully flagged duplicate billings, unmatched records, date mismatches, and budget overages, ensuring accurate final payment processing.
 
