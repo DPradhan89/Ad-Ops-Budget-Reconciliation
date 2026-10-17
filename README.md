@@ -10,7 +10,7 @@ By leveraging advanced Excel functions, the audit successfully flagged duplicate
 ## 🛠️ Key Skills Demonstrated
 * **Data Cleaning & Formatting:** Standardizing raw CSV text strings, correcting spelling errors, and standardizing date formats.
 * **Financial Reconciliation:** Matching planned budgets against gross invoice amounts.
-* **Advanced Excel Functions:** Utilizing `XLOOKUP` for relational data mapping and `SUMIF` for conditional budget aggregation.
+* **Advanced Excel Functions:** Utilizing `XLOOKUP` for relational data mapping and `SUMIF` for conditional budget aggregation.Built complex nested formulas (e.g., combining SUM and XLOOKUP) for dynamic data retrieval
 * **Variance & Error Tracking:** Quarantining duplicate records, calculating budget overages, and identifying missing invoices.
 
 ## 📊 Discrepancy Report & Findings
